@@ -1,4 +1,4 @@
-# CubeSim — Minimal Package (ready-to-import)
+# CubeSim — Minimal Package 
 
 This archive contains a minimal Python package `cubesim` with:
 - `cubesim.create_circular_orbit(...)`
